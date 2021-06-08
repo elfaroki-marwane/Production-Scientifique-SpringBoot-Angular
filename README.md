@@ -16,27 +16,32 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 ## Visuals of the Project
 
-### Video Presentation for the Theme
-
-### Further Website Pictures
-
 ### ADMIN interface
+
+#### Page Login
+
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621834537566238/Ajouter_doctorant.PNG)
+#### Admin Dashboard | Professeur
 
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621818640629770/admin.PNG)
+####  Admin Dashboard | Doctorant 
 
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621838143488020/doctorant.PNG)
+####  Admin Dashboard | Modifier Doctorant
 
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621841957027870/modif_doct.PNG)
+####  Admin Dashboard | Modifier Professeur
 
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621844132954127/modifier_prof.PNG)
+#### Admin Dashboard | Ajouter Equipe
 
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621839850569728/equipe.PNG)
 
 ### USER interface 
 
-
+#### Professeur Profile
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621845651685408/proff_home.PNG)
+#### Doctorant Profile
 ![alt text](https://cdn.discordapp.com/attachments/774780731284914196/851621836181733416/doct_home.PNG)
 
 
